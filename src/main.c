@@ -3,7 +3,14 @@
 
 int main ( int argc, char* argv[] )
 {
-	printf("Hello World!\n");
+	if (argc != 1)
+	{
+		printf("Hola Mundo!\n");
+
+	} else {
+
+		printf("Hello World!\n");
+	}
 
 	return 0;
 }
