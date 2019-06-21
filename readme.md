@@ -10,19 +10,19 @@ y este readme descriptivo.
 
 ##### Básicos
 
- - git init
- - git status (git add / git rm)
- - git commit
- - git diff
- - git log
- - git checkout
- - git reset
+ - [X] git init
+ - [X] git status (git add / git rm)
+ - [X] git commit
+ - [X] git diff
+ - [X] git log
+ - [X] git checkout
+ - [X] git reset
  
 ##### Branches
 
- - git branch
- - git checkout -b
- - git merge (ff y 3-Way)
+ - [X] git branch
+ - [X] git checkout -b
+ - [X] git merge (ff y 3-Way)
  
 ##### Remotes
 
